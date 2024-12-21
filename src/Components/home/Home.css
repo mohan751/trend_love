@@ -1,0 +1,49 @@
+.navbar{
+    color:aqua;
+    padding-left: 60px;
+    display: flex;
+    gap: 200px;
+}
+
+
+.navbar,h1{
+    background: linear-gradient(45deg,
+    #fd0000,rgb(255,0,255),
+    aqua
+    );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+input{
+    border-radius: 20px;
+    width: 600px;
+    height: 40px;
+}
+
+.login-cart{
+    display: flex;
+    gap: 60px;
+}
+
+.navbar,p{
+    font-size: 20px;
+}
+
+.nav2{
+    padding-left: 200px;
+    display: flex;
+    gap: 100px;
+}
+
+.nav2,img{
+
+    width: 60px;
+
+}
+
+.electronics,img{
+    height: 50px;
+}
+
+

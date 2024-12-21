@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+body{
+  color: rgb(244, 243, 243);
+  background-color: rgb(8, 8, 8);
+  margin: 0;
+  font-family: 'poppins';
+}
+
+.slick-slide>div{
+  margin: 0 px;
+}
